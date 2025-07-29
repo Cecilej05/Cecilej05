@@ -1,5 +1,5 @@
 # Cecile Jaber  
-B.Sc. Computer Science  
+B.S. Computer Science  
 Florida Atlantic University  
 
 📍 Boca Raton, FL, USA  
