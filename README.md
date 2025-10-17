@@ -47,6 +47,8 @@ Bachelor of Science in Computer Science
 
 Designed and built a smart assistive cane using an ESP32 microcontroller, ultrasonic and IR sensors, and an accelerometer. Programmed the system in C for real-time obstacle detection and motion sensing. Implemented audio and vibration alerts to assist visually impaired users. 
 
+---
+
 ### 📸 Screenshot Generator Web App (ApiFlash API)
 *React, Vite, REST API* 
 
