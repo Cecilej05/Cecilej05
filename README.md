@@ -9,7 +9,7 @@ Florida Atlantic University
 ---
 
 ## Education  
-**August 2022 – December 2025**  
+**December 2025**  
 **Florida Atlantic University**  
 Bachelor of Science in Computer Science   
 
@@ -18,7 +18,6 @@ Bachelor of Science in Computer Science
 ## Interests  
 - Mobile App Development (iOS)
 - Web App Development
-- Cybersecurity 
 - Software Engineering  
   
 
@@ -43,6 +42,10 @@ Bachelor of Science in Computer Science
 ---
 
 ## Projects  
+### Smart Cane for the Visually Impaired (In progress) 
+*VS code, C*						 		        
+
+Designed and built a smart assistive cane using an ESP32 microcontroller, ultrasonic and IR sensors, and an accelerometer. Programmed the system in C for real-time obstacle detection and motion sensing. Implemented audio and vibration alerts to assist visually impaired users. 
 
 ### 📸 Screenshot Generator Web App (ApiFlash API)
 *React, Vite, REST API* 
