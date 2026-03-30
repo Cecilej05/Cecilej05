@@ -4,7 +4,7 @@ Florida Atlantic University
 
 📍 Boca Raton, FL, USA  
 📧 cecilejaber91@gmail.com  
-🔗 [GitHub](https://github.com/Cecilej05) | [LinkedIn](www.linkedin.com/in/cecile-jaber-6bb572283 )
+🔗 [GitHub](https://github.com/Cecilej05) | [LinkedIn](www.linkedin.com/in/cecile-jaber)
 
 ---
 
@@ -25,10 +25,10 @@ Bachelor of Science in Computer Science
 
 ## Skills  
 
-**Languages**: Swift, Python, C, C++, JavaScript  
+**Languages**: Swift, Python, C, C++, JavaScript, SQL  
 **Frameworks**: Xcode, UIKit, SwiftUI, VS code 2  
 **Cybersecurity Tools**: Splunk, Wireshark, PyCharm  
-**Other**: Git/GitHub, Markdown, PSpice
+**Other**: Git/GitHub, Markdown, PSpice, API
 
 ---
 
@@ -37,12 +37,13 @@ Bachelor of Science in Computer Science
 - **HackerRank** – Basic Problem Solving *(May 2024)*  
 - **CodePath** – iOS Development *(December 2024)*  
 - **CodePath** – Web Development *(April 2025)*  
-- **CodePath** – Cybersecurity *(April 2025)*  
+- **CodePath** – Cybersecurity *(April 2025)*
+- **CodePath** - Intermediate Python *(November 2025)*
 
 ---
 
 ## Projects  
-### Smart Cane for the Visually Impaired (In progress) 
+### Smart Cane for the Visually Impaired 
 *VS code, C*						 		        
 
 Designed and built a smart assistive cane using an ESP32 microcontroller, ultrasonic and IR sensors, and an accelerometer. Programmed the system in C for real-time obstacle detection and motion sensing. Implemented audio and vibration alerts to assist visually impaired users. 
